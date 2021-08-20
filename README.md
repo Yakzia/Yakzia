@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Yakzia
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C# and Javascript
+- 💞️ I’m looking to collaborate in the Age of Empires II community
